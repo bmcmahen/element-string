@@ -1,0 +1,17 @@
+{
+  "name": "element-string",
+  "repo": "bmcmahen/element-string",
+  "description": "generate an html element as a string",
+  "version": "0.0.1",
+  "keywords": ["domify", "string"],
+  "dependencies": {},
+  "development": {
+    "component/assert": "*",
+    "component/domify": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
