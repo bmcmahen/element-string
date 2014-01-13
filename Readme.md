@@ -15,7 +15,7 @@
 var generate = require('element-string');
 var str = generate('span', {
   class: 'bacon',
-  data-id: 'tastes good'
+  'data-id': 'tastes good'
 }, 'this is the text of the span');
 ```
 
